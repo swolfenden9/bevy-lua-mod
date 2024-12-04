@@ -1,5 +1,6 @@
 [package]
 name = "bevy-lua-mod"
+description = "Adds lua modding support to Bevy."
 version = "0.1.0"
 edition = "2021"
 
